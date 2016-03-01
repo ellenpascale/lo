@@ -1,0 +1,4 @@
+var newSubmit = "BUTTON TEXT";
+$(function(){
+$("#send").val(newSubmit);
+});
