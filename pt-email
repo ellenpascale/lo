@@ -484,7 +484,7 @@ div[class=pattern] img {
               <tr>
                   <td>      
       <!-- START MAIN CONTENT TABLE -->  
-<table style="width: 560px; border: 1px solid #4c4c4c;" border="0" cellspacing="0" cellpadding="0" align="center" class="inner-table-content">
+<table style="width: 560px; border: 1px solid #ddd;" border="0" cellspacing="0" cellpadding="0" align="center" class="inner-table-content">
 <!--header-->
 <tbody>
 <tr>
