@@ -434,24 +434,56 @@ div[class=pattern] img {
 </style>
 
  <title>The Humane Society of the United States: 24 hours only!</title> 
-<table style="width: 560px;" border="0" cellspacing="0" cellpadding="0" align="center">
-<!--legal-->
+ <!-- START WHOLE PAGE -->
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" style="background-color:#faf6ee;">
 <tbody>
 <tr>
 <td>
-<div style="margin-top: 5px; margin-bottom: 0px; padding: 0px; text-align: center;"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px; color: #000000; line-height: 1.25em; font-weight: bold;">Thank  you so much for your recent gift to help make the Day of Giving such a huge success for pets in need. Want to make <em>every day</em> a great day for animals? <br><a style="color: #a71930; text-decoration: underline; font-weight: bold;" href="https://secure.humanesociety.org/site/Donation2?df_id=16560&16560.donation=form1&df_id=16560&autologin=true&s_src=em_DoG_041816">Become a Humane Hero by making a monthly pledge to The HSUS today&raquo;</a></span></div>
+<!-- START TOP TEXT STUFF -->
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" bgcolor="#EBE6DC" style="text-align: center;">
+  <tbody>
+    <tr>
+      <td>
+        <table border="0" width="560" cellpadding="0" cellspacing="0" align="center" style="margin: auto;" class="inner-table-content">         
+          <tr>
+            <td class="inner-table-content" valign="middle" style="padding: 10px 0;text-align: center;">
+              <span style="color: #444; font-family: sans-serif; font-size: 13px; line-height: 14px; text-decoration: none;">Email Preview Pane</span><br />
+              <a href="https://secure.humanesociety.org/site/Advocacy?cmd=display&page=UserAction&id=6937&autologin=true&s_src=em_ha070615" style="color: #a1151a; font-family: sans-serif; font-size: 13px; line-height: 14px;" target="_blank">Second line of text</a><br />                    
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+	<tr class="view_online">
+    <td class="email_link_viewonline" valign="top" style="background-color:#EBE6DC; text-align:center; padding-bottom:5px;"><a style="font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#666!important; text-decoration:underline;" class="email_link_viewonline" href="http://action.humanesociety.org/site/MessageViewer" target="_blank">View this message on our website.</a></td>
+	</tr>
+	</tbody>
+  </table>
+<!-- END TOP TEXT STUFF -->
+  
+<!-- START TOP BUTTONS TABLE -->
+  <table border="0" width="560" cellpadding="0" cellspacing="0" align="center" class="top-icons" style="margin: auto; background-color: #faf6ee;" bgcolor="#faf6ee;">
+    <tbody>
+	<tr>
+      <td valign="middle" style="padding: 20px 0; text-align: center;" class="logo-text-align">
+     
+        <a href="http://www.humanesociety.org/?credit=em_logo" target="_blank"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/hsus-logo-354x81.png" alt="alt text" width="160" height="37" border="0" class="mobile-email-logo"></a>
+		</td>
+
+    </tr>
+	</tbody>
+  </table>
+<!-- END TOP BUTTONS TABLE -->
 </td>
 </tr>
-<tr>
-<td>
-<div style="margin-top: 10px; margin-bottom: 10px; padding-top: 5px; text-align: center;"><span style="font-size: 10px; line-height: 1.25em; font-family: Verdana,Arial,Helvetica,sans-serif; color: #888888;">Trouble with links or images? <a style="color: #888888; font-family: Verdana,Arial,Helvetica,sans-serif; text-decoration: underline;" href="http://action.humanesociety.org/site/MessageViewer">View this message online</a>.</span></div>
-</td>
-</tr>
-<tr>
-<td width="631" align="center" style="margin-bottom: 8px;"><img src="http://action.humanesociety.org/images/content/pagebuilder/hsus_60th_h_logo354x116.png" border="0" alt="" width="200"/></a></td>
-</tr>
-</tbody>
-</table>
+  <tr>
+  <td valign="top">
+      <!--CMK: Adding wrapper table around main content-->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+              <tr>
+                  <td>      
+      <!-- START MAIN CONTENT TABLE -->  
 <table style="width: 560px; border: 1px solid #4c4c4c;" border="0" cellspacing="0" cellpadding="0" align="center" background-color: #ffffff">
 <!--header-->
 <tbody>
