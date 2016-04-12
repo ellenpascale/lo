@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+[[S51:myhumane_redesign_AR_CSS]]
+<style>
+ @media screen and (max-width: 650px) {
+.reg-button { width: 90% !important; margin: 0px auto; height: auto !important; }
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="700" class="responsive-table">
+    <tr>
+        <td>
+			<!-- HEADER -->
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td bgcolor="#ffffff" align="center" width="100%" class="section-header">
+						<!-- HIDDEN PREHEADER TEXT -->
+						<div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family:'Source Sans Pro',sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+							
+						</div>
+						<table bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" width="700" class="wrapper" align="center">
+							<!-- LOGO/PREHEADER TEXT -->
+							<tr>
+								<td align="center" style="padding: 10px;">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td bgcolor="#e3e3e3" align="center" style="display: block; font-family:'Source Sans Pro',sans-serif; color: #535353; font-size: 12px;">
+												
+<br>
+												<a href="http://www.myhumane.org/?credit=em_header" target="_blank"><img width="154" title="myHumane" alt="myHumane" style="display:inline-block;" src="https://secure3.convio.net/humane/images/content/pagebuilder/myhumane-logo.png"></a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+			<!-- ONE COLUMN SECTION -->
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td bgcolor="#ffffff" align="center" style="padding: 0px 10px;">
+						<table  border="0" cellpadding="0" cellspacing="0" width="700" class="responsive-table">
+							<tr>
+								<td>
+									<!-- HERO IMAGE -->
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td>
+												<!-- COPY -->
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+													<tr>
+														<td align="left" style="padding: 0px 60px 30px; font-size: 16px; line-height: 135%; font-family:'Source Sans Pro',sans-serif; color: #000000; font-weight: 300; text-align:left !important; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;" class="padding-copy">
+														[[S63:2]]
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<!-- FOOTER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td bgcolor="#ffffff" align="center">
+            <!-- UNSUBSCRIBE COPY -->
+            <table bgcolor="#e3e3e3" width="700" border="0" cellspacing="0" cellpadding="0" align="center" class="responsive-table">
+                <tr>
+                    <td>
+                        <!-- TWO COLUMNS -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" class="padding-copy">
+                                    <!-- LEFT COLUMN -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="30%" align="left" class="responsive-table">
+                                        <tr>
+                                             <td style="padding: 50px 0px 0px 60px;" class="padding-copy-left">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="left" style="padding: 0 20px 0 0;">
+														<div style="text-align:left;font-family:'Source Sans Pro',sans-serif;font-size:15px;margin-bottom:0;color:#5F5F5F;line-height:135%;">
+														<a href="https://www.facebook.com/humanesociety" target="_blank"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/Facebook.png" width="24"></a>
+														</div>
+														</td>
+														<td align="left" style="padding: 0 20px 0 0;">
+														<div style="text-align:left;font-family:'Source Sans Pro',sans-serif;font-size:15px;margin-bottom:0;color:#5F5F5F;line-height:135%;">
+														<a href="https://twitter.com/HumaneSociety" target="_blank"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/Twitter.png" width="28"></a>
+														</div>
+														</td>
+														<td align="left" style="padding: 0 20px 0 0;">
+														<div style="text-align:left;font-family:'Source Sans Pro',sans-serif;font-size:15px;margin-bottom:0;color:#5F5F5F;line-height:135%;">
+														<a href="https://instagram.com/humanesociety/" target="_blank"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/instagram.png" width="24"></a>
+														</div>
+														</td>
+														<td align="left" style="padding: 0 20px 0 0;">
+														<div style="text-align:left;font-family:'Source Sans Pro',sans-serif;font-size:15px;margin-bottom:0;color:#5F5F5F;line-height:135%;">
+														<a href="http://humanesociety.tumblr.com/" target="_blank"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/tumblr.png" width="15"></a>
+														</div>
+														</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- RIGHT COLUMN -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="60%" align="right" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 50px 60px 10px;" class="padding-copy-left">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td class="text-left" align="right" valign="middle"><img src="https://secure3.convio.net/humane/images/content/pagebuilder/HSUSLogoSmall.png" width="194" height="34" style="display: block; color: #000000; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 194px !important; height: 34px !important;" alt="Fluid images" border="0" class="img-max"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				<tr>
+                    <td class="padding-copy-left-footer" align="left" style="font-weight:300; font-size: 14px; line-height: 135%; font-family:'Source Sans Pro',sans-serif; color:#535353; padding:30px 60px; border-bottom:12px solid #1b365d;">
+                        <span class="appleFooter" style="color:#535353;">
+						&copy; [[S9:pattern:yyyy]] The Humane Society of the United States<br><br>
+The HSUS is registered as a 501(c)(3) non-profit organization. Contributions to The HSUS are tax-deductible to the extent permitted by law. The HSUS's tax identification number is 53-0225390. <br><br>
+We are committed to protecting your privacy, so your email address will NEVER be sold, rented, or exchanged. This message was sent to <a style="color: #1b365d; !important;" href="" />[[S1:primary_email]]</a>. Visit your <a style="color: #1b365d; !important;" href="http://action.humanesociety.org/site/CO" />online profile</a> to view or update your contact information, email subscriptions, recent actions and donations, or billing information for monthly gifts. To stop  ALL email from The Humane Society of the United States, <a style="color: #1b365d; !important;" href="http://action.humanesociety.org/site/CO" />click here</a> (or reply via email with &quot;remove&quot; in the  subject line).
+						
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
