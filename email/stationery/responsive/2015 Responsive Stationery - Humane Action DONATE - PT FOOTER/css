@@ -1,0 +1,397 @@
+.ExternalClass {
+    width: 100%;
+} /* Forces Outlook.com to display emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}  /* Forces Outlook.com to display normal line spacing, here is more on that:
+                            http://www.emailonacid.com/forum/viewthread/43/
+                            */
+body {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+} /* Prevents Webkit and Windows Mobile
+                        platforms from changing default font sizes. */
+body {
+    margin: 0;
+    padding: 0;
+} /* Resets all body margins and padding to 0 for good measure */
+table td {
+    border-collapse: collapse;
+}
+/*This resolves the Outlook 07, 10, and Gmail td padding issue.  Heres more info:
+http://www.ianhoar.com/2008/04/29/outlook-2007-borders-and-1px-padding-on-table-cells
+http://www.campaignmonitor.com/blog/post/3392/1px-borders-padding-on-table-cells-in-outlook-07
+*/
+.applelinks-footer a {color: #888888 !important; text-decoration: none;}
+
+.inset-image-img {
+    width: 170px;
+}
+a.date  {
+color: #2e2e2e !important;
+text-decoration: none !important;
+line-height: 20px !important;
+font-size: 15px !important;
+}
+.inset-image-section-mobile {
+    display: none;
+}
+
+.call-outlook-border-fix {
+    border: 5px double #cccccc !important;
+    border-collapse: collapse !important;
+}
+
+.buttons_bottom {
+    display: inline;
+}
+.bottom-buttons-row {
+    width: 130px;
+}
+#humane-alert-mobile {
+    display: none;
+    font-size: 0;
+    max-height: 0;
+    line-height: 0px !important;
+    padding: 0;
+(optional) mso-hide: all; /* hide elements in Outlook 2007-2013 */
+(optional)
+}
+.top-icons {
+    position: relative;
+    max-width: 560px;
+    width: 560px !important;
+}
+.res-footer A:link {
+    color: white !important;
+}
+.email_links {
+    color: #fff !important;
+}
+.email_links p {
+    color: #fff !important;
+}
+.email_links span {
+    color: #fff !important;
+}
+.email_links a {
+    color: #fff !important;
+}
+.email_links a:link {
+    color: #fff !important;
+}
+.email_links a:visited {
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 560px) {
+.mobile-hide {display: none;}
+img.mobile-share-images {
+    width: 27px !important;
+    height: 27px !important;
+}
+
+.pp-width {width: 95%;}
+
+.blank-middle-table-top {
+display: none !important;
+}
+
+
+.height-fix {
+height: auto !important;
+}
+
+.mobile-title {
+    padding: 0px 20px !important;
+    width: 100% !important;
+}
+.bottom-buttons-row {
+    padding: 5px 10px!important;
+}
+.size-fix a {
+    font-size: 10px !important;
+}
+/*
+.inner-table-content a {
+    font-size: 10px;
+}
+*/
+.logo-text-align {
+    text-align: center !important;
+}
+#humane-alert-mobile {
+    width: 100%;
+    background-color: #a1141a;
+    font-size: 25px !important;
+height;
+40px !important;
+    line-height: 40px !important;
+    display: block !important;
+    text-align: center;
+    color: #fff !important;
+    max-height: none !important;
+}
+.top-icons {
+    position: relative;
+    width: 100% !important;
+    max-width: 560px;
+}
+img[class=mobile-humane-alert] {
+    display: block !important;
+    height: 40px !important;
+}
+img[class=desktop-humane-alert] {
+    display: none !important;
+}
+img[class=mobile-email-logo] {
+    height: 40px !important;
+    width: auto !important;
+    margin: 0px auto !important;
+    text-align: center !important;
+}
+img[class=flex-img] {
+    height: auto !important;
+    width: 90% !important;
+    max-width: 245px !important;
+
+}
+table[class=inner-table-content] {
+    width: 100% !important;
+}
+td[class=mobile-top-share] {
+    text-align: center !important;
+    width: 100% !important;
+    margin-bottom: 20px !important;
+    padding-bottom: 20px !important;
+}
+table[class=inner-table-content-table] {
+    width: 100% !important;
+    background-color: #EBE6DC;
+}
+table[class=inner-table-content-table-inset] {
+    width: 100% !important;
+    background-color: #ffffff !important;
+}
+table[class=bottom-buttons-padding] {
+    padding: 0px !important;
+}
+table[class=message-table] {
+    width: 100% !important;
+    border: none !important;
+}
+table[class=email_footer] {
+    padding: 2px !important;
+}
+div[class=email_footer_text] {
+    font-size: 11px !important;
+}
+a[class=email_footer_text] {
+    font-size: 11px !important;
+}
+span[class=content-headline] {
+    font-size: 1.75em !important;
+}
+table[class=content-right-callout-column] {
+    width: 100%;
+    margin-bottom: 20px !important;
+}
+table[class=inset-callout-column] {
+    display: block !important;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+div[class=content-buttons] {
+    display: block !important;
+    text-align: center !important;
+}
+img[class=bottom-buttons-row-1] {
+    padding: 7px 2px !important;
+    text-align: left !important;
+}
+img[class=bottom-buttons-row-2] {
+    padding: 7px 2px !important;
+    text-align: left !important;
+}
+img[class=action-buttons] {
+    height: 100px !important;
+    width: auto !important;
+}
+tr[class=view_online] {
+    display: none !important;
+}
+*[class].ecard-sender-text p {
+    font-size: 2.5em !important;
+    margin-bottom: 1em;
+}
+p[class=ecard-text] {
+    font-size: 2.5em !important;
+}
+p[class=center-text] {
+    margin: 0px auto !important;
+    width: 90% !important;
+    max-width: 245px !important;
+    padding-top: 0px !important;
+}
+p[class=center-title] {
+    margin: 10px auto !important;
+    width: 80% !important;
+}
+a[class=center-title] {
+    margin: 10px auto !important;
+    width: 80% !important;
+}
+a[class=ecard-text-a] {
+    font-size: 1em !important;
+}
+span[class=mobile-share-text] {
+    font-size: 2.5em !important;
+}
+img[class=flex-share-icons] {
+    height: 30px !important;
+    width: auto !important;
+}
+img[class=email-logo] {
+    height: 40px !important;
+    width: auto !important;
+}
+img[class=donate-button-mobile] {
+    margin: 5px 30px 20px!important;
+}
+#overlay_humane_action {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 34px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 34px;
+    margin: 30px 10px 0px 0px;
+    background-color: #225384;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div[class=pattern] {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+div[class=pattern] img {
+    width: 100%;
+
+}
+img.pattern {
+    width: 100%;
+    height: auto;
+}
+.spacer {
+    display: none !important;
+}
+.full {
+    display: block;
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.bottom_images {
+    float: left;
+    margin: 10px;
+    width: auto !important;
+}
+
+}
+
+
+.email_links a:visited {
+    color: #fff !important;
+}
+.email_links a:link {
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 560px) {
+.spacer {
+    display: none !important;
+}
+
+.lower-slot-text {
+    width: 100% !important;
+}
+
+.lower-slot-image-padding {
+     padding-right: 0px !important;
+}
+
+}
+
+@media only screen and (max-width: 560px) {
+.inset-image-table {
+   width: 100% !important;
+   margin-bottom: 0px !important;
+}
+
+
+
+
+
+.inset-image-section-mobile {
+  display: block !important;
+  height: 160px !important;
+width: 245px !important;
+}
+
+.inset-image-section-mobile img{
+  display: block !important;
+  height: 160px !important;
+width: 245px !important;
+}
+
+.inset-button-table {
+   width: 100% !important;
+   height: auto !important;
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+}
+
+.inset-image-img {
+    display: none !important;
+}
+.inset-button-section {
+   width: 245px !important;
+   margin: 0px auto !important;
+}
+}
+
+.inset-button-section {
+   margin: auto !important;
+   text-align: center;
+}
+
+@media only screen and (max-width: 560px) {
+.inset-section-table {
+    background-color: #ffffff !important;
+    width: 50% !important;
+}
+
+.inset-button-section img {
+     padding: 15px !important;
+}
+
+.inset-button-section p {
+     padding-top: 15px !important;
+	 margin-top: 0px !important;
+}
+
+}
+
+/* EP 11.10.2016 adding message-table fix for desktop */
+
+.message-table {width: 560px;}
+
+@media only screen and (max-width: 560px) {
+.message-table {width: 100% !important;}
+}
